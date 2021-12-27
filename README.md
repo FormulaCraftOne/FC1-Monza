@@ -1,6 +1,7 @@
 # FC1-Monza
 
-![image](https://user-images.githubusercontent.com/96582306/147435212-c1274e77-66dc-40a6-bb23-3e1d6b8a885e.png)
+![image](https://user-images.githubusercontent.com/96582306/147456573-18f5dd4d-be1c-4a04-b924-28dae23480bd.png)
+
 
 
 [**Direct Download**][dl-latest]
