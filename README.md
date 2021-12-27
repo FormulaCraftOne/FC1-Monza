@@ -1,5 +1,8 @@
 # FC1-Monza
 
+![image](https://user-images.githubusercontent.com/96582306/147435212-c1274e77-66dc-40a6-bb23-3e1d6b8a885e.png)
+
+
 [**Direct Download**][dl-latest]
 
 As F1 pulls up to the Italian Grand Prix, the Minecraft Ice Boat Racing series follows! This is a recreation of the circuit Monza with various fantasy elements to make for a good ice boat racing map.
