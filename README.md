@@ -36,7 +36,7 @@ Enjoy the drive!
 
 
 <!-- link refrences (repo-specific)-->
-[dl-latest]: https://github.com/FormulaCraftOne/FC1-Monza/releases/latest/download/world.zip
+[dl-latest]: https://git.io/FC1-Monza
 [planetmc]: https://www.planetminecraft.com/project/f1-monza-ice-boat-racing-track-1-17-1/
 <!-- [yt-vidlink]:  -->
 <!-- [yt-thumbnail]:  -->
